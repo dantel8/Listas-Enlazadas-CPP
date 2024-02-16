@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1688756198 source:c:\users\dante\onedrive\documentos\unla\2do\1er cuatrimestre\algortimos y estructuras de datos\final\listasenlazadas\main.cpp
+	<iostream>
+	"lista.h"
+
+1688755610 c:\users\dante\onedrive\documentos\unla\2do\1er cuatrimestre\algortimos y estructuras de datos\final\listasenlazadas\lista.h
+
+1688756221 source:c:\users\dante\onedrive\documentos\unla\2do\1er cuatrimestre\algortimos y estructuras de datos\final\listasenlazadas\lista.cpp
+	<iostream>
+	"lista.h"
+
